@@ -4,7 +4,7 @@ import IMG1 from '../../assets/portfolio1.jpg'
 import IMG2 from '../../assets/portfolio2.jpg'
 import IMG3 from '../../assets/portfolio3.jpg'
 import IMG4 from '../../assets/portfolio4.jpg'
-import IMG5 from '../../assets/portfolio5.png'
+import IMG5 from '../../assets/portfolio5.jpg'
 import IMG6 from '../../assets/portfolio6.jpg'
 
 const data = [
@@ -39,16 +39,16 @@ const data = [
 {
   id: 5,
   image: IMG5,
-  title: 'Charts template & infographics in Figma',
-  github: 'https://github.com',
-  demo: 'https://dribbble.com/Alien_pixels',
+  title: 'Dashboard Covid-19',
+  github: 'https://github.com/elijuniordev/Dashboard-Covid-19',
+  demo: 'https://dashboard-covid.herokuapp.com/',
 },
 {
   id: 6,
   image: IMG6,
   title: 'Em breve...',
-  github: 'https://github.com',
-  demo: 'https://dribbble.com/Alien_pixels',
+  github: 'https://github.com/elijuniordev/',
+  demo: '#',
 },
 ]
 
