@@ -24,22 +24,29 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon' />
               <h5>Experiência</h5>
-              <small>3+ anos e evoluindo!</small>
+              <small>6 meses e evoluindo!</small>
             </article>
             <article className='about__card'>
               <FiUsers className='about__icon' />
               <h5>Clientes</h5>
-              <small>200+ em todo mundo!</small>
+              <small>Em breve!</small>
             </article>
             <article className='about__card'>
               <VscFolderLibrary className='about__icon' />
               <h5>Projetos</h5>
-              <small>80+ completos</small>
+              <small>5+ completos</small>
             </article>
           </div>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum molestiae modi quis quisquam blanditiis nemo, 
-            laboriosam enim cum totam corporis, ipsam fugit numquam ab dignissimos qui odit quibusdam saepe dolores?
+            Olá pessoal!
+
+            Sou o Eli Junior, e tenho muito amor por desenvolvimento Web!
+
+            Estou sempre em busca de coisas novas para apreender, a web é a minha paixão e estou sempre disposto a aprender mais e mais. Qualquer coisa que possa me ajudar a expandir meus conhecimentos é sempre bem vinda.
+
+            Este portfolio foi desenvolvido com ReactJS, e você pode conferir o código fonte no meu GitHub.
+
+            Espero que você goste :)
           </p>
           <a href='#contact' className='btn btn-primary'>Vamos conversar</a>
         </div>
