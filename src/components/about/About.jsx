@@ -39,17 +39,17 @@ const About = () => {
           </div>
           <p>
             Olá pessoal!
-          </p><br/>
-          <p><br/>
+          </p>
+          <p>
             Sou o Eli Junior, e tenho muito amor por desenvolvimento Web!
           </p>
-          <p><br/>
+          <p>
             Estou sempre em busca de coisas novas para apreender, a web é a minha paixão e estou sempre disposto a aprender mais e mais. Qualquer coisa que possa me ajudar a expandir meus conhecimentos é sempre bem vinda.
           </p>
-          <p><br/>
+          <p>
             Este portfolio foi desenvolvido com ReactJS, e você pode conferir o código fonte no meu GitHub.
           </p>
-          <p><br/>
+          <p>
             Espero que você goste :)
           </p>
           <a href='#contact' className='btn btn-primary'>Vamos conversar</a>
