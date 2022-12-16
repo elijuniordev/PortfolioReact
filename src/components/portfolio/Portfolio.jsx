@@ -32,9 +32,9 @@ const data = [
 {
   id: 4,
   image: IMG4,
-  title: 'Maintaining tasks and tracking progress',
-  github: 'https://github.com',
-  demo: 'https://dribbble.com/Alien_pixels',
+  title: 'iCalc - Calculadora financeira (calcule salário, férias e horas extras)',
+  github: 'https://github.com/elijuniordev/iCalc',
+  demo: 'https://icalc.herokuapp.com/calculadorasalario',
 },
 {
   id: 5,
@@ -46,7 +46,7 @@ const data = [
 {
   id: 6,
   image: IMG6,
-  title: 'Charts template & infographics in Figma',
+  title: 'Em breve...',
   github: 'https://github.com',
   demo: 'https://dribbble.com/Alien_pixels',
 },
