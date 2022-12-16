@@ -5,9 +5,9 @@ import {FiInstagram, FiLinkedin, FiGithub} from 'react-icons/fi'
 const Footer = () => {
   return (
     <footer>
-      <a href="#header" className='footer__logo'>Eli Junior</a>
+      <a href="#header" className='footer__logo'>EliJunior.DEV</a>
 
-      <ul className="pemarlinks">
+      <ul className="permalinks">
         <li><a href="#header">Home</a></li>
         <li><a href="#about">Sobre mim</a></li>
         <li><a href="#experience">Experiência</a></li>
