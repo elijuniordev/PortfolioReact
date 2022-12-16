@@ -18,16 +18,16 @@ const data = [
 {
   id: 2,
   image: IMG2,
-  title: 'Comunidade Impressionadora',
-  github: 'https://github.com',
+  title: 'Comunidade Tech',
+  github: 'https://github.com/elijuniordev/ComunidadeTech',
   demo: 'https://comunidadetech.herokuapp.com/',
 },
 {
   id: 3,
   image: IMG3,
-  title: 'Figma dashboard UI kit for data design web apps',
-  github: 'https://github.com',
-  demo: 'https://dribbble.com/Alien_pixels',
+  title: 'iTube Downloader - Baixe vídeos do Youtube',
+  github: 'https://github.com/elijuniordev/iTubeDownloader',
+  demo: 'https://itubedownload.herokuapp.com/',
 },
 {
   id: 4,
