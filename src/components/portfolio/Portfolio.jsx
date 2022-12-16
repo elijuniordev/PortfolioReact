@@ -11,16 +11,16 @@ const data = [
 {
   id: 1,
   image: IMG1,
-  title: 'Crypto Currency Dashboard & Financial Visualization',
-  github: 'https://github.com',
-  demo: 'https://dribbble.com/Alien_pixels',
+  title: 'FlixLi - Cópia do Netflix',
+  github: 'https://github.com/elijuniordev/FlixLi',
+  demo: 'https://flixli.herokuapp.com/',
 },
 {
   id: 2,
   image: IMG2,
-  title: 'Charts template & infographics in Figma',
+  title: 'Comunidade Impressionadora',
   github: 'https://github.com',
-  demo: 'https://dribbble.com/Alien_pixels',
+  demo: 'https://comunidadetech.herokuapp.com/',
 },
 {
   id: 3,
