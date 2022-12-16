@@ -25,14 +25,14 @@ footer a {
     margin: 0 auto 3rem;
 }
 
-.footer_socials {
+.footer__socials {
     display: flex;
     justify-content: center;
     gap: 1rem;
     margin-bottom: 4rem;
 }
 
-.footer_socials a {
+.footer__socials a {
     background: var(--color-bg);
     color: var(--color-white);
     padding: 0.8rem;
@@ -41,7 +41,7 @@ footer a {
     border: 1px solid transparent;
 }
 
-.footer_socials a:hover {
+.footer__socials a:hover {
     background: transparent;
     color: var(--color-bg);
     border-color: var(--color-bg);
