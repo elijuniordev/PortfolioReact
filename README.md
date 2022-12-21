@@ -6,7 +6,7 @@ Desenvolvido através do ReactJS e foi hospedado no servidor Heroku.
 
 ## Badges
 
-<img src="https://img.shields.io/badge/react-js18.2.0-blue" />
+<img src="https://img.shields.io/badge/ReactJS.18.2.0-blue" />
 
 ## Links
 
